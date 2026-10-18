@@ -2,16 +2,16 @@
 
 Blockchain é um registro distribuído de dados, organizado em blocos encadeados e validado por consenso entre os nós de uma rede, sem autoridade central.
 
-## Conceitos
+Conceitos
 - Blocos encadeados por hash
 - Rede peer-to-peer
 - Algoritmo de consenso distribuído
 - Criptografia
 
-## Exemplos e lugares aplicados
+Exemplos e lugares aplicados
 Criptomoedas (Bitcoin), contratos inteligentes, rastreabilidade de cadeia de suprimentos.
 
-## Minhas anotações da aula
+Minhas anotações da aula
 As tecnologias blockchain não são uma técnica única: reúnem criptografia, matemática, algoritmos e modelo econômico, combinando redes peer-to-peer e algoritmo de consenso distribuído para resolver o problema tradicional de banco de dados distribuído, em uma construção de infraestrutura integrada de vários campos.
 
 Seis elementos-chave:
