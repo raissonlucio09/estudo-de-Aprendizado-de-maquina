@@ -2,17 +2,17 @@
 
 Aprendizado de máquina é a área em que o sistema aprende padrões a partir de dados, em vez de ser programado com regras explícitas.
 
-## Conceitos
+Conceitos
 - Supervisionado: dados com rótulo (classificação e regressão)
 - Não supervisionado: sem rótulo (agrupamento, ex.: k-means)
 - Por reforço: aprende por recompensa e penalidade
 - Separação treino/teste e problema de overfitting
 - Exemplos: árvores de decisão, k-NN, regressão linear
 
-## Exemplos e lugares aplicados
+Exemplos e lugares aplicados
 Prever preço de imóveis, classificar e-mails como spam.
 
-## Minhas anotações da aula
+Minhas anotações da aula
 Um sistema de aprendizagem pode adquirir regras de comportamento, descrições de objetos, heurísticas, taxonomias de classificação e outros tipos de conhecimento. Os tipos de aquisição são classificados pela forma de representação do conhecimento:
 - Parâmetros em expressões algébricas: ajusta coeficientes numéricos de uma forma funcional fixa. Ex.: o Perceptron de Rosenblatt ajusta pesos para reconhecer padrões.
 - Árvores de decisão: os nós são atributos, as arestas são valores dos atributos e as folhas são as classes dos objetos.
