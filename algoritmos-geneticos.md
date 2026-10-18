@@ -2,7 +2,7 @@
 
 Algoritmos genéticos são métodos de busca e otimização inspirados na evolução natural: soluções melhores têm mais chance de sobreviver e se reproduzir.
 
-## Conceitos
+ Conceitos
 - População de indivíduos (cromossomos)
 - Função de aptidão (fitness)
 - Seleção, cruzamento (crossover) e mutação
