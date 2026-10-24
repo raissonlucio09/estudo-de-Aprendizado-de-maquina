@@ -1,6 +1,6 @@
 # Algoritmos Genéticos
 
-Algoritmos genéticos são métodos de busca e otimização inspirados na evolução natural: soluções melhores têm mais chance de sobreviver e se reproduzir.
+Algoritmos genéticos são métodos de busca e otimização inspirados na evolução natural,soluções melhores têm mais chance de sobreviver e se reproduzir.
 
  Conceitos
 - População de indivíduos (cromossomos)
